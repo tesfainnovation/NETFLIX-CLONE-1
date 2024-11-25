@@ -23,6 +23,7 @@
 
 .row_posterLarge{
     max-height: 250px;
+    margin-top: 60px;
 }
 
 .row_posterLarge:hover{
